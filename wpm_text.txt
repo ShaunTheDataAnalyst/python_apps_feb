@@ -1,0 +1,5 @@
+Hello world, my name is Shaun and I am the best at making tutorials!
+This is another test block of text for this project!
+Thanks for watching, please don't forget to subscribe to my Youtube Channel.
+So, this is just another test text to make sure the app is working properly.
+The quick brown fox jumped over the rest of the sentence that I forget.
